@@ -20,6 +20,9 @@ body {
   perspective: 1000px;
 }
 
+#myAudio {
+  opacity: 0;
+}
 .night {
   position: fixed;
   left: 50%;
